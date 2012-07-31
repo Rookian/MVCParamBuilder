@@ -1,0 +1,7 @@
+C:\Development\MVCParamBuilder\MVCParamBuilder\bin\MVCParamBuilder.dll
+C:\Development\MVCParamBuilder\MVCParamBuilder\bin\MVCParamBuilder.pdb
+C:\Development\MVCParamBuilder\MVCParamBuilder\bin\EntityFramework.dll
+C:\Development\MVCParamBuilder\MVCParamBuilder\bin\EntityFramework.xml
+C:\Development\MVCParamBuilder\MVCParamBuilder\obj\Debug\MVCParamBuilder.csprojResolveAssemblyReference.cache
+C:\Development\MVCParamBuilder\MVCParamBuilder\obj\Debug\MVCParamBuilder.dll
+C:\Development\MVCParamBuilder\MVCParamBuilder\obj\Debug\MVCParamBuilder.pdb

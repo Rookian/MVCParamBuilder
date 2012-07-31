@@ -1,0 +1,8 @@
+﻿@model MVCParamBuilder.Models.Test
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@Html.LabelFor(x => x.InnerTest.Name)
+@Html.TextBoxFor(x => x.InnerTest.Name)
+@Html.ActionLink("Click", "Test", "Home", Param.For(x => x.InnerTest.Name, x => x.InnerTest.Id), null)
